@@ -11,7 +11,7 @@ channel.send(`**Moataz spam , Moataz spam , Moataz spam , Moataz spam Moataz spa
 })
 
 client.on('message', message => {
- if(message.author.id !== "546061303945494535" )return;
+ if(message.author.id !== "546060614515163147" )return;
 
 let command = "1say"
 
